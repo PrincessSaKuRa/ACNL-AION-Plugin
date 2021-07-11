@@ -1,5 +1,9 @@
 # ACNL-AION-Plugin
 
+
+
+![image0](https://user-images.githubusercontent.com/77876989/125181268-2d40c000-e23e-11eb-97c1-fa86bd0093d4.png)
+
 welcome to the AION Plugin!!
 {ようこそ！AION プラグインへ}
 
