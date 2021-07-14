@@ -16,3 +16,6 @@ welcome to the AION Plugin!!
 -クラッシュや乗っ取り、AIONはそれらを弾きます
 
 随時更新します！！ by Nekotan
+
+★code提供者★
+さきゅっち#3939
