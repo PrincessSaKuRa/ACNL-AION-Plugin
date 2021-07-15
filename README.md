@@ -24,8 +24,11 @@ welcome to the AION Plugin!!
 -クラッシュや乗っ取り、AIONはそれらを弾きます
 
 ✿困ってる人を助けたい✿
+
 破壊家具を取り除くこと？Aionは可能です
 
+全てのチートユーザーのための新しい3gx。
+starAionです
 
 随時更新します！！ by Nekotan
 
