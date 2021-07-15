@@ -17,5 +17,5 @@ welcome to the AION Plugin!!
 
 随時更新します！！ by Nekotan
 
-★code提供者★
+★破壊家具削除code提供者★
 さきゅっち#3939
