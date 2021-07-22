@@ -1,0 +1,17 @@
+StarMenu V.4 manual
+
+StarMenuの操作方法
+#開く
+L + DPad右
+#閉じる
+R + DPad左
+#決定
+L + A/メニュー:A
+#戻る
+B
+#L + DPad左チート優先順位
+L + B + DPad下
+
+RGBパターン::R + 下
+
+一部チート::L + 左
