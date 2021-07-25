@@ -5,3 +5,6 @@
 Acnl StarAion StarMenu
 
 メニューレス化した、新しい3gx
+
+開発者Twitter ACNLAION
+discord ねこたん.bat#7257
