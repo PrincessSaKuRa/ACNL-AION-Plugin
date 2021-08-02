@@ -1,4 +1,5 @@
-![image0](https://user-images.githubusercontent.com/77876989/126873051-26c49b28-cb37-4f0d-8ef2-465be52739b4.png)
+![Pegasus](https://user-images.githubusercontent.com/77876989/127790580-d14797ff-ec8b-4f15-84d2-48cb1ff6ffec.png)
+
 
 
 # ACNL-AION-Plugin
