@@ -8,7 +8,7 @@ AION Plugin
 [000400086200]とびだせどうぶつの森
 https://mega.nz/file/SqhiiSqD
 
-ダウンロードKey
+復号Key
 B2X_hoVNfvd3Q-q8dvMDr2cB3fVEyH7FDkR7EsR5e-U
 
 使ってください！
