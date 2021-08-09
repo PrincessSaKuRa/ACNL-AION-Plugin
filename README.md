@@ -3,3 +3,12 @@
 AION Plugin
 
 メニューレスな新しい3gx
+
+アミーボプラスしかないよーって方へ!
+[000400086200]とびだせどうぶつの森
+https://mega.nz/file/SqhiiSqD
+
+ダウンロードKey
+B2X_hoVNfvd3Q-q8dvMDr2cB3fVEyH7FDkR7EsR5e-U
+
+使ってください！
