@@ -4,6 +4,9 @@ AION Plugin
 
 メニューレスな新しい3gx
 
+[安定のV.7](English only)
+https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases/tag/2.0.0
+
 アミーボプラスしかないよーって方へ!
 
 [000400086200]とびだせどうぶつの森
