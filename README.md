@@ -30,3 +30,24 @@ https://download4.erista.me/content/2786?token=099cb5d05e4cae9308ce424cb1910b65
 B2X_hoVNfvd3Q-q8dvMDr2cB3fVEyH7FDkR7EsR5e-U
 
 使ってください！
+
+
+
+---------------------------
+開発者 翠蓮
+
+team SuiLen
+
+Youtubeer 部門
+
+あーき#6668
+Kouta_ACNH#8404
+
+アシスタント部門
+
+妖丸+ろあ丸#1272
+ユゥ#1688
+
+プログラミング部門
+
+joj#1650
