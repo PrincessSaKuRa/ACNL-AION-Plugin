@@ -8,7 +8,8 @@ AION Plugin
 https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases/tag/2.0.0
 
 V4のソースコードはオープンになりました!
-
+最新のAIONもオープンソースになりました!!
+---------------------------
 アミーボプラスしかないよーって方へ!
 
 [000400086200]とびだせどうぶつの森
