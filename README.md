@@ -17,16 +17,6 @@ V4のソースコードはオープンになりました!
 [mega]
 https://mega.nz/file/SqhiiSqD
 
-[セカンドリンク]
-
-by h-shop
-
-[Base]
-https://download4.erista.me/content/1661?token=cd0fc245266eedbe97d83f69a9a1167e
-
-[Updata]
-https://download4.erista.me/content/2786?token=099cb5d05e4cae9308ce424cb1910b65
-
 [MeGa復号Key]
 B2X_hoVNfvd3Q-q8dvMDr2cB3fVEyH7FDkR7EsR5e-U
 
@@ -35,26 +25,3 @@ B2X_hoVNfvd3Q-q8dvMDr2cB3fVEyH7FDkR7EsR5e-U
 
 
 ---------------------------
-開発者 翠蓮
-
-team SuiLen
-
-Youtubeer 部門
-
-あーき#6668
-
-Kouta_ACNH#8404
-
-ゆうま#3142
-
-アシスタント部門
-
-妖丸+ろあ丸#1272
-
-ユゥ#1688
-
-プログラミング部門
-
-joj#1650
-
-キノえもん / 𝓚𝓲𝓷𝓸𝓮𝓶𝓸𝓷#5458
