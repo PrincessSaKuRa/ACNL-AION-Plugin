@@ -1,4 +1,5 @@
-![hFuturePlus](https://user-images.githubusercontent.com/77876989/128638499-41583986-1e61-4ccc-aa05-3cc440450143.png)
+![bandicam 2022-01-03 12-06-40-995](https://user-images.githubusercontent.com/77876989/147900914-43a87311-00f1-4042-8f11-30320934f3ce.jpg)
+
 
 AION Plugin
 
@@ -8,7 +9,6 @@ AION Plugin
 https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases/tag/2.0.0
 
 V4のソースコードはオープンになりました!
-最新のAIONもオープンソースになりました!!
 ---------------------------
 アミーボプラスしかないよーって方へ!
 
