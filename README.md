@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://princesssakura.github.io/Nyanth/"><img src="aion.png" alt="Ryujinx" width="150"></a>
+  <a href="https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases"><img src="aion.png" alt="Aion3gx" width="150"></a>
   <br>
   <b>アイオーン 3GX</b>
   <br>
