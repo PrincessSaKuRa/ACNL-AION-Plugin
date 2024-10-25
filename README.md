@@ -31,4 +31,4 @@ Nintendo 3ds:2ds/New3ds:New2ds/
 - [キノエモン](https://x.com/baconandmiso)  サポート＆テクニカルサポート.
 - [わす](https://x.com/wasu1111111) UI改変＆軽量化/rebuild＆FIX
 - [Team SuiLen]Menu＆マニュアルの翻訳
-- [ねこたん]ベースシステム作成
+- [ねこたん](https://x.com/DonutSuZu) ベースシステム作成
