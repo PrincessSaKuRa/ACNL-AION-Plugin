@@ -1,11 +1,34 @@
-![bandicam 2022-01-03 12-06-40-995](https://user-images.githubusercontent.com/77876989/147900914-43a87311-00f1-4042-8f11-30320934f3ce.jpg)
+> [!NOTE]
+> 3ds Games :3gx plugin about ACNL
+
+<h1 align="center">
+  <br>
+  <a href="https://princesssakura.github.io/Nyanth/"><img src="aion.png" alt="Ryujinx" width="150"></a>
+  <br>
+  <b>アイオーン 3GX</b>
+  <br>
+  <sub><sup><b>-ACNL-AION-Plugin-</b></sup></sub>
+  <br>
+</h1>
+
+<p align="center">
+  ACNL Plugin.2022 Made by nekotan</a>.
+  <br />
+</p>
+
+### AION Plugin
+・CTRPFメニューに頼らない、新しいGame Plugin.
+
+## 最新版
+こちら: [releases page](https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases)
+
+## 使い方
+Nintendo 3ds:2ds/New3ds:New2ds/
 
 
-AION Plugin
+## Credits
 
-メニューレスな新しい3gx
-
-byねこたん
-
-
----------------------------
+- [キノエモン](https://x.com/baconandmiso)  サポート＆テクニカルサポート.
+- [わす](https://x.com/wasu1111111) UI改変＆軽量化/rebuild＆FIX
+- [Team SuiLen]Menu＆マニュアルの翻訳
+- [ねこたん]ベースシステム作成
