@@ -17,7 +17,7 @@
 </p>
 
 ### AION Plugin
-・CTRPFメニューに頼らない、新しいGame Plugin.
+・CTRPFメニューに頼らない、新しいACNL Plugin.
 
 ## 最新版
 こちら: [releases page](https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases)
