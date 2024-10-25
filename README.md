@@ -22,7 +22,7 @@
 ## 最新版
 こちら: [releases page](https://github.com/PrincessSaKuRa/ACNL-AION-Plugin/releases)
 
-## 使い方
+## サポート コンソール
 Nintendo 3ds:2ds/New3ds:New2ds/
 
 
